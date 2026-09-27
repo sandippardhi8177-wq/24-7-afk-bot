@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 3,
+      "repeat-delay": 120,
       "messages": [
         "Subscribe to MH_MINECRAFT_GAMER!",
         "Make friends not dushmans"
