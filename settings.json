@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "MH_MC.aternos.me",
+    "port": 29993,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Subscribe to MH_MINECRAFT_GAMER!",
+        "Make friends not dushmans"
       ]
     },
     "chat-log": true,
